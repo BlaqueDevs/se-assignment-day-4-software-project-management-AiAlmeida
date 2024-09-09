@@ -33,6 +33,8 @@ A detailed project schedule ensures clear timelines and accountability. Gantt ch
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+The software addresses core issues like inefficiency and high costs in industry processes, which are significant because they directly affect productivity and profitability.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?

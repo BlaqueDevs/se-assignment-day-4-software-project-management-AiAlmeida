@@ -25,6 +25,8 @@ Methods for quality assurance include continuous testing, code reviews, and auto
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
+Defining project scope prevents scope creep and ensures focused development. A Work Breakdown Structure (WBS) breaks the project into manageable tasks, making planning and tracking more efficient.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?

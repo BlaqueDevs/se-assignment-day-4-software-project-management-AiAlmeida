@@ -21,6 +21,8 @@ Agile is better for projects requiring adaptability, like app development. Water
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
+Methods for quality assurance include continuous testing, code reviews, and automated testing. Maintaining high standards ensures reliability, reduces rework, and boosts user satisfaction.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?

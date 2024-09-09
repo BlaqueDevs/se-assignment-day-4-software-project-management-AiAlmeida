@@ -13,6 +13,8 @@ Effective cost control ensures that a project stays within budget, directly cont
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
+Agile is flexible, allowing continuous feedback and iterations, but may lack predictability. Waterfall is structured and predictable but less adaptable to changes. Agile is ideal for dynamic projects, while Waterfall suits well-defined, sequential projects.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?

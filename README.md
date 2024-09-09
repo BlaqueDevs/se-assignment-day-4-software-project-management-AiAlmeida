@@ -17,6 +17,8 @@ Agile is flexible, allowing continuous feedback and iterations, but may lack pre
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
+Agile is better for projects requiring adaptability, like app development. Waterfall is beneficial for projects with clear, stable requirements, such as construction management software.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
